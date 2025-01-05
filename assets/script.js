@@ -12,7 +12,7 @@ for (let i = 1; i <= 90; i++) {
 }
 
 function drawNumber() {
-  if (drawnNumbers.length >= 90) return;
+  if (drawnNumbers.length >= 90) return endGame();
 
   let number;
   do {

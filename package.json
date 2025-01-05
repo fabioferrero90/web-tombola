@@ -17,6 +17,5 @@
   "author": "Fabio Ferrero",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
   }
 }
