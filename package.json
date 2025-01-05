@@ -1,0 +1,22 @@
+{
+  "name": "web-tombola",
+  "version": "1.0.0",
+  "description": "Tombola made by Boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web-tombola"
+  },
+  "keywords": [
+    "Tombola"
+  ],
+  "author": "Fabio Ferrero",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
